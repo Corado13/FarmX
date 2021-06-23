@@ -1,7 +1,7 @@
 {
   "name": "@pancakeswap/interface",
   "description": "Pancakeswap Interface",
-  "homepage": "https://60d34e1343c7f9518e16ce89--infallible-edison-6b5c51.netlify.app/",
+  "homepage": "https://netlify.app/",
   "private": true,
   "dependencies": {
     "@binance-chain/bsc-connector": "^1.0.0",
