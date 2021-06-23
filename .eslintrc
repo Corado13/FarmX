@@ -37,5 +37,10 @@
     "react/require-default-props": 0,
     "class-methods-use-this": 0
     // End temporary rules
+    "extends": [
+        "eslint:recommended",
+        "plugin:@typescript-eslint/eslint-recommended",
+        "plugin:@typescript-eslint/recommended"
+    ],
   }
 }
